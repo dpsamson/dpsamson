@@ -19,6 +19,10 @@
 + **Alab** — Personal AI assistant with agentic tool-calling, running locally via Ollama. Handles time, calculations, file I/O, web search, and voice I/O (Whisper).
 + **Wedding RSVP Web App** — Full-stack RSVP site (React/TS + Framer Motion) using Google Sheets as a serverless database via Apps Script.
 
+#### Other things to share
++ Currently learning other aspects and mechanics of Docker aside from the basics
++ Will be attempting TinyML by a makeshift CCTV capable of lightweight models
+
 #### Contacts
 - [LinkedIn](www.linkedin.com/in/dirk-samson)
 - [OnlineJobsPH](https://v2.onlinejobs.ph/jobseekers/info/5081398)
