@@ -1,16 +1,24 @@
-## Hi there 👋
+Yooo, I'm Dirk >///<
 
-<!--
-**dpsamson/dpsamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Engineering student at Batangas State University (DOST Scholar) — building full-stack web apps and AI/ML systems. 
 
-Here are some ideas to get you started:
+Worth to note
+- Currently building Alab, a personal AI agent running tool-calling on a local LLM (Ollama) 
+- Learning React Native for mobile app development 
+- Open to part-time / flexible tech roles
+- Participated in the eGovPH Hackathon 2026 with a group of friends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+- Languages: TypeScript · JavaScript · Python · Java · C++ · SQL 
+- Frontend: React · React Native · HTML/CSS · Tailwind Backend: Flask · FastAPI · Google Apps Script 
+- ML/CV: YOLO · Roboflow · scikit-learn · kNN 
+- Databases: SQLite · Firebase 
+- Tools: Git · VS Code · Vercel · Heroku · Ollama
+
+Projects im still proud of
++ Alab — Personal AI assistant with agentic tool-calling, running locally via Ollama. Handles time, calculations, file I/O, web search, and voice I/O (Whisper).
++ Wedding RSVP Web App — Full-stack RSVP site (React/TS + Framer Motion) using Google Sheets as a serverless database via Apps Script.
+
+Contacts
+- LinkedIn = www.linkedin.com/in/dirk-samson
+- OnlineJobsPH = https://v2.onlinejobs.ph/jobseekers/info/5081398
